@@ -7,4 +7,8 @@ public class Ios implements OS{
 			System.out.println("Secure OS");
 	}
 
+	public void spec1() {
+		System.out.println("Secure OS");
+	}
+
 }
